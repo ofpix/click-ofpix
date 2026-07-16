@@ -24,13 +24,6 @@ social:
 paginate: 20
 paginate_path: /page:num/
 
-# Chirpy theme settings  
-tabs:
-  - { title: 文章列表, icon: "fas fa-archive", url: /archives, order: 1 }
-  - { title: 分类, icon: "fas fa-stream", url: /categories, order: 2 }
-  - { title: 标签, icon: "fas fa-tags", url: /tags, order: 3 }
-  - { title: 关于, icon: "fas fa-info-circle", url: /about, order: 4 }
-
 # Timezone
 timezone: Asia/Shanghai
 
