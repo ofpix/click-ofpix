@@ -13,6 +13,12 @@ timezone: Asia/Shanghai
 
 theme: jekyll-theme-chirpy
 
+# Collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
 # No avatar needed - will use default
 
 social:
@@ -35,7 +41,7 @@ kramdown:
     span:
       line_numbers: false
 
-# Defaults for posts
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -45,6 +51,12 @@ defaults:
       comments: false
       toc: true
       permalink: /:year/:month/:day/:title/
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
 
 # Sitemap & RSS
 sitemap: true
