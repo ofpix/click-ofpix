@@ -10,4 +10,3 @@ source: "https://web.archive.org/web/20090214182744/http://click.ofpix.com/1.htm
 
 欢迎使用 WordPress。这是您的第一篇文章。您可以编辑它或是删除它，然后开始写您自己的 blog。
 **Tags:** No Tags
-
