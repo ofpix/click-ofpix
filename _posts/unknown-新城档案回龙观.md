@@ -1,9 +1,8 @@
 ---
-title: 新城档案：回龙观
-date: 2007-06-01 12:00:00 +0800
+title: "新城档案：回龙观"
+date: unknown 12:00:00 +0800
 categories: [综合]
-author: 逆光
-post_id: 
+author: unknown
 series: general
 ---
 
