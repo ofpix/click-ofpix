@@ -13,15 +13,28 @@ timezone: Asia/Shanghai
 
 theme: jekyll-theme-chirpy
 
-avatar: "https://ofpix.github.io/click-ofpix/assets/img/avatar.png"
+# No avatar needed - will use default
 
 social:
   name: OFPiX
   links:
     - https://ofpix.com
 
+# Pagination
 paginate: 20
+paginate_path: /page:num/
 
+# Chirpy theme settings  
+tabs:
+  - { title: 文章列表, icon: "fas fa-archive", url: /archives, order: 1 }
+  - { title: 分类, icon: "fas fa-stream", url: /categories, order: 2 }
+  - { title: 标签, icon: "fas fa-tags", url: /tags, order: 3 }
+  - { title: 关于, icon: "fas fa-info-circle", url: /about, order: 4 }
+
+# Timezone
+timezone: Asia/Shanghai
+
+# Markdown
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
@@ -29,14 +42,18 @@ kramdown:
     span:
       line_numbers: false
 
+# Defaults for posts
 defaults:
   - scope:
       path: ""
       type: posts
     values:
       layout: post
-      comments: true
+      comments: false
       toc: true
       permalink: /:year/:month/:day/:title/
 
+# Sitemap & RSS
 sitemap: true
+feed:
+  path: /feed.xml
