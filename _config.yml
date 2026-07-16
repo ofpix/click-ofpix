@@ -1,0 +1,42 @@
+# Click You, Click Me - OFPiX 摄影博客存档
+title: Click You, Click Me
+tagline: 摄影如奇遇 — OFPiX 存档
+description: >-
+  2007-2009 年 OFPiX 旗下的摄影博客 Click You, Click Me（后更名为 Click US）
+  的完整存档，包含 104 篇关于摄影、肖像、工作坊的原创文章。
+url: "https://ofpix.github.io"
+baseurl: "/click-ofpix"
+github: "ofpix/click-ofpix"
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
+theme: jekyll-theme-chirpy
+
+avatar: "https://ofpix.github.io/click-ofpix/assets/img/avatar.png"
+
+social:
+  name: OFPiX
+  links:
+    - https://ofpix.com
+
+paginate: 20
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /:year/:month/:day/:title/
+
+sitemap: true
