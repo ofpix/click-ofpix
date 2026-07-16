@@ -1,6 +1,6 @@
 ---
 title: Posts Tagged ‘作品展’
-date: 2007-06-01
+date: 2007-06-01 12:00:00 +0800
 categories: [综合]
 author: wangwenzhang
 post_id: tag

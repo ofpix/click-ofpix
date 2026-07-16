@@ -1,7 +1,7 @@
 ---
 title: "Hello world!"
 post_id: 1
-date: 2007-06-18
+date: 2007-06-18 12:00:00 +0800
 author: admin
 category: "未分类"
 series: uncategorized

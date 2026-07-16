@@ -1,6 +1,6 @@
 ---
 title: Archive for the ‘专栏文章’ Category
-date: 2007-06-01
+date: 2007-06-01 12:00:00 +0800
 categories: [综合]
 author: 逆光
 post_id: category

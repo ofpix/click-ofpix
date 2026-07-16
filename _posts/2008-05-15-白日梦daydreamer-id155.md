@@ -1,7 +1,7 @@
 ---
 title: "白日梦.daydreamer"
 post_id: 155
-date: 2008-05-15
+date: 2008-05-15 12:00:00 +0800
 author: unknown
 category: "来稿"
 series: submissions

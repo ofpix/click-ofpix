@@ -1,7 +1,7 @@
 ---
 title: "Desiree Dolron和她的作品 —–自由穿行的 Desiree Dolron"
 post_id: 121
-date: 2007-11-29
+date: 2007-11-29 12:00:00 +0800
 author: 逆光
 category: "来稿"
 series: submissions
